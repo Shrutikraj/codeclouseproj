@@ -1,0 +1,1 @@
+This project aims to detect fraudulent credit card transactions using machine learning techniques. By analyzing transaction patterns, the model distinguishes between legitimate and fraudulent activities, aiding in proactive fraud prevention.
